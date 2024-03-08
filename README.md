@@ -1,0 +1,1 @@
+# desafio-squadio-Python-Data-Analytics
